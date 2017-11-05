@@ -18,7 +18,7 @@ def checkValid(user,pas):
 
 @app.route('/login_success')
 def messageInput():
-    return render_template("messageInput.html")
+    return render_template("maps_find.html")
     
 @app.route('/login_success')
 def success_process():
