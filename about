@@ -1,0 +1,17 @@
+Problem:
+After any natural disaster we can send drones with mini cell towers to places which phone towers have been compromised. 
+The drones can then pick up signals from cell phones which send back the GPS location where a potential victim might be.
+Also, during certain disasters, such as wildfires, potential future victims can receive the—already triggered—WEA, allowing them 
+a opportunity to leave the threatened area.
+
+Solution:
+After any natural disaster we can send drones with mini cell towers to places which phone towers have been compromised. 
+The drones can then pick up signals from cell phones which send back the GPS location where a potential victim might be.
+Also, during certain disasters, such as wildfires, potential future victims can receive the—already triggered—WEA, allowing 
+them a opportunity to leave the threatened area.
+
+How it works:
+While utilizing the current WEA system for disasters we can ensure that, with the use of a drone which has a mini cell phone 
+tower, people without the reception to receive the alert will then receive the necessary signal to hear the WEA.
+Packets will then be sent back to the antenna with a GPS location of that phone, allowing for emergency responders to see the 
+location of the vicinity where the phone and potentially trapped people might be.
